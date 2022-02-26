@@ -1,2 +1,2 @@
 # SQL Snippets
-My Answers to HackerRank's SQL Problems
+My Answers to HackerRank's SQL Problems in **MySQL**
